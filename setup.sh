@@ -3,6 +3,8 @@
 # setup.sh
 # This script will setup a brand-new OSX installation with THINGS.
 
+xcode-select --install
+
 # Install and setup homebrew
 which -s brew
 echo "Checking if homebrew exists..."
@@ -31,6 +33,10 @@ brew cask install spotify
 brew cask install boom
 brew cask install atom
 brew cask install sublime
+
+# Composer things
+composer global require "squizlabs/php_codesniffer=*"
+composer global require laravel/valet
 
 # Create a developer folder and sites folder.
 echo "Creating folders and files for Developer"

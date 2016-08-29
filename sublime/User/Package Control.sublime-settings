@@ -1,0 +1,16 @@
+{
+	"bootstrapped": true,
+	"in_process_packages":
+	[
+	],
+	"installed_packages":
+	[
+		"DocBlockr",
+		"Origami",
+		"Package Control",
+		"PHP Companion",
+		"Seti_UI",
+		"Themr",
+		"Vue Syntax Highlight"
+	]
+}

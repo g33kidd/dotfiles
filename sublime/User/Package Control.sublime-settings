@@ -5,10 +5,15 @@
 	],
 	"installed_packages":
 	[
+		"ColorSchemeSelector",
 		"DocBlockr",
+		"Emmet",
+		"Laravel Blade Highlighter",
+		"Oceanic Next Color Scheme",
 		"Origami",
 		"Package Control",
 		"PHP Companion",
+		"Sass",
 		"Seti_UI",
 		"Themr",
 		"Vue Syntax Highlight"
